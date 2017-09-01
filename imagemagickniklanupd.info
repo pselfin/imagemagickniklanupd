@@ -1,0 +1,8 @@
+name = Imagemagick Niklan UPD
+description = "Update Imagemagick by <a href="https://niklan.net/blog/139">Niklan</a> "
+core = 7.x
+
+; Requires menu_build_tree() conditions; available after 7.10.
+; @see http://drupal.org/node/1025582
+
+
